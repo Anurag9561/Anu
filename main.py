@@ -1,3 +1,3 @@
 import pandas as pd
 
-print("Hllo Wrld !! Hello")
+print("Hllo Wrd !! Hello")
