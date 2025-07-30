@@ -1,3 +1,4 @@
 import pandas as pd
 
-print("Hllo Wrd !! Hllo")
+if a=1 and b=2 :
+  print("Hi")
